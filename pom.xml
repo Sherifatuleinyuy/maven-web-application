@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://3.87.58.187:8081/repository/project-fe-releases/</url>
+	      <url> http://http://54.197.14.238:8081/repository/project-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.87.58.187:8081/repository/project-fe-snapshots/</url>
+	      <url>http://http://54.197.14.238:8081/repository/project-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
